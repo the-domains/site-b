@@ -1,0 +1,28 @@
+name: Site B
+favicon: null
+layout_spectrum: 0.7797921886667609
+typography_spectrum: 0.022723682457581162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3861517959740013
+  lightness: 0.9227553065866232
+  saturation: 0.4224946938920766
+  rhythmicContrast: 0.33212264883331954
+purpose: []
